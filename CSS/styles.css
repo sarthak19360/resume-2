@@ -1,0 +1,76 @@
+  body {
+      background-color: #FFEBCC;
+      font-family: 'Open Sans', sans-serif;
+  }
+
+  .name{
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+    color: #FF7272;
+  }
+
+  hr {
+      border-style: dotted none none;
+      border-color: #FFF8F3;
+      border-width: 10px;
+      width: 7%;
+  }
+
+  h1 {
+    color: #FF7272;
+  }
+
+  h3 {
+    color: #FF7272;
+    text-align: center;
+  }
+
+  a:hover {
+    color:gold;
+  }
+
+  .link1,.link2,.link3{
+    padding:30px
+  }
+
+  .form{
+    line-height: 2.5;
+  }
+
+  .bio{
+    width: 70%;
+    margin: auto;
+    line-height: 2;
+  }
+
+  .education,.div3,.div4{
+    padding: 50px;
+    text-align: left;
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+  }
+
+  .div5,.div6{
+    padding: 50px;
+    text-align: center;
+    line-height: 2;
+    width: 50%;
+    margin: auto;
+  }
+
+  .gif{
+    border-radius: 100%;
+  }
+
+  .skills-table,.hobby,.ed-list{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+  }
+
+  .form-body{
+    text-align: center;
+    font-size: 1.25rem;
+  }
