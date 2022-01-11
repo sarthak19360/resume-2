@@ -73,6 +73,8 @@
   .form-body{
     text-align: left;
     font-size: 1.25rem;
+    width:50%;
+    margin :auto;
   }
 
   .mt-oli,.nsut{
