@@ -63,8 +63,15 @@
     border-radius: 100%;
   }
 
-  .skills-table,.hobby,.ed-list{
+  .hobby,.ed-list{
     text-align: center;
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+  }
+
+  .skills-table{
+    text-align: left;
     width: 50%;
     margin: auto;
     line-height: 2;
